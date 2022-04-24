@@ -1,0 +1,8 @@
+50,1.5;25,1.2;75,1.7;12,1.5;37,1.2;43,1.7;30,1.5;80,1.2;87,1.7;93,1.6;72,1.4;70,1.8;55,1.9;35,1.9;40,1.3;42,1.1
+Value does not exist in tree 
+
+Inorder traversal:  12 25 30 35 37 40 42 43 50 55 70 72 75 80 87 93 
+key 12 is there {12, 1.5} 
+key 80 is there {80, 1.2} 
+Min value in tree {12, 1.5} 
+Max value in tree {93, 1.6} 
